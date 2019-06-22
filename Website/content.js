@@ -71,7 +71,7 @@
             "paragraphs": [
 		"The history of smartphones and where they are going in the future.",
 		"Smartphones are the most used devices that most people interact with nowadays.",
-		"2000 - First ever smartphone was released, Ericsson R380 Smartphone. It combined a phone and a PDA.",       
+		"2000 - First ever smartphone was released, Ericsson R380 Smartphone. It combined the functions a phone and a PDA.",       
 		"2007 - The first smartphone to take off was the iPhone made by Apple in 2007.  It was a revolutionary move by Apple. There were many cool new features that the consumers loved such as the touchscreen, a 2 megapixel camera, and an easy-to-use graphical user interface.",
 		"2008 - Google releases the first Android smartphone that featured a sliding keyboard, a limited touchscreen display, an android app market known today as Google Play Store and many other customizability features that the iPhone didn’t provide until many years later.",
 		"Microsoft stops Windows Mobile after realizing they cannot compete with the Android and iPhone. They then develop the Windows Phone.",
@@ -109,9 +109,9 @@
             "youtubeLink": "https://www.youtube.com/embed/IhP3J0j9JmY",
             "teaserText": "One must consider the many risks that come with new biometric technology.",
             "paragraphs": [
-                "It can be said that not only does biometric technology add to the security and saftey risks, it can also solve some.",
-                "Once the biometric data goes digital and stored in a centralized database, it can be compromised. If a security breach occurred currently, new credits and details can be released to bank customers. In case of this occuring in the time of biometric payments,it would not be possible to release a new fingerprint. Banks and financial organisations must explore more secure methods of storage. Perhaps, standardization could solve this problem. The use of  biometrics data is currently largely unregulated. Once governments have set standards, different companies will not be able to operate under different degrees of scrutiny providing better security and more safety for users.",
-                "Biometric technology could combat many major security issues such as Identity theft and ATM fraud. A fraud can currently apply for a credit card using a fake I.D.  however it would be difficult for a fraud to apply using a fake fingerprint. Card trapping is a regular occurrence at local ATMs. A card can be physically trapped in the machine comprising the details of the user/card owner – frauds go on to create counterfeit cards. This will issue would be combatted if biometric touch was used at an ATM. ",
+                "It can be said that not only does biometric technology add to the security and safety risks, it can also solve some.",
+                "Once the biometric data goes digital and stored in a centralized database, it can be compromised. If a security breach occurred currently, new credit cards and details can be released to bank customers. In case of this occuring in the time of biometric payments,it would not be possible to release a new fingerprint. Banks and financial organisations must explore more secure methods of storage. Perhaps, standardization could solve this problem. The use of  biometrics data is currently largely unregulated. Once governments have set standards, different companies will not be able to operate under different degrees of scrutiny providing better security and more safety for users.",
+                "Biometric technology could combat many major security issues such as Identity theft and ATM fraud. Anyone can currently apply for a credit card using a fake I.D. However, it would be difficult for someone to apply using a fake fingerprint. Card trapping is a regular occurrence at ATMs. A card can be physically trapped in the machine compromising the details of the card owner – frauds go on to create counterfeit cards. This issue could be combatted if biometric touch was used instead of a card.",
             ]
         },
         "futuredigital": {
