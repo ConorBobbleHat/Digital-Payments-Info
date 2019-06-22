@@ -18,5 +18,5 @@ app.use(express.static("static"))
 
 
 app.listen(PORT,function(){
-    console.log("app running on port " + PORT)
+    console.log("Server is now running on port: " + PORT)
 })
